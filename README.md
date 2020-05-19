@@ -1,13 +1,10 @@
 # Build2020: Connect with Microsoft India and your local dev community
 
-
-<p style="text-align: center;">https://mybuild.microsoft.com/sessions/3a2d054f-ba4e-4e85-a9ac-dfa81b1032b6?source=sessions </p>
-
+[Session info](https://mybuild.microsoft.com/sessions/3a2d054f-ba4e-4e85-a9ac-dfa81b1032b6?source=sessions)
 
 <p align="center">
-  <img width="300" height="300" src="bit.png">
+  <img width="250" height="250" src="bit.png">
 </p>
-
 
 ## Slides
 
