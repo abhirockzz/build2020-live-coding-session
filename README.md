@@ -4,7 +4,7 @@
 
 ## Slides
 
-TODO
+https://www.slideshare.net/AbhishekGupta126/build-2020-build-a-serverless-real-time-event-processing-app-in-20-mins
 
 ## Resources
 
