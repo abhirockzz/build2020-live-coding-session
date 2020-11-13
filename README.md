@@ -1,6 +1,6 @@
 # Build2020: Connect with Microsoft India and your local dev community
 
-[Session info here](https://mybuild.microsoft.com/sessions/3a2d054f-ba4e-4e85-a9ac-dfa81b1032b6?source=sessions)
+[Session info here](https://mybuild.microsoft.com/sessions/3a2d054f-ba4e-4e85-a9ac-dfa81b1032b6?source=sessions&WT.mc_id=data-0000-abhishgu)
 
 ## Slides
 
